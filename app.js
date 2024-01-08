@@ -1,9 +1,4 @@
-// part 1
 
-// const container = document.getElementById('react-container');
-// ReactDOM.render("Hello! Welcome to React",container);
-
-// part2
 
 // Functional component
 // const Container = () =>{
@@ -14,8 +9,6 @@
 // // Render the Container
 // const container = document.getElementById('react-container');
 // ReactDOM.render(React.createElement(Container),container);
-
-// part 3
 
 class ReactContainer extends React.Component{
     // constructor - to initialize the state 
